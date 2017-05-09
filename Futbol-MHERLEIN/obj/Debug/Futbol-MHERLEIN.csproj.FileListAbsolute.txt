@@ -1,0 +1,6 @@
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\Futbol-MHERLEIN\Futbol-MHERLEIN\bin\Debug\Futbol-MHERLEIN.exe.config
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\Futbol-MHERLEIN\Futbol-MHERLEIN\bin\Debug\Futbol-MHERLEIN.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\Futbol-MHERLEIN\Futbol-MHERLEIN\bin\Debug\Futbol-MHERLEIN.pdb
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\Futbol-MHERLEIN\Futbol-MHERLEIN\obj\Debug\Futbol-MHERLEIN.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\Futbol-MHERLEIN\Futbol-MHERLEIN\obj\Debug\Futbol-MHERLEIN.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\Futbol-MHERLEIN\Futbol-MHERLEIN\obj\Debug\Futbol-MHERLEIN.pdb
